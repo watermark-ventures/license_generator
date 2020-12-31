@@ -6,7 +6,7 @@ const questions = [
     // Creator's Name
     {
         type: "input",
-        message: "What is the name of the name of the licensee?",
+        message: "What is the name of the licensee?",
         name: "licensee_name"
     },
 
